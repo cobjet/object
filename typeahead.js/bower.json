@@ -1,0 +1,5 @@
+{
+  "name": "typeaheadjs",
+  "version": "0.10.4",
+  "main": "./typeahead.bundle.js"
+}

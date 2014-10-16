@@ -1,0 +1,13 @@
+{
+  "name": "typeaheadjs",
+  "repo": "components/typeahead.js",
+  "version": "0.10.4",
+  "main": "typeahead.js",
+  "scripts": [
+    "typeahead.js"
+  ],
+   "files": [
+    "typeahead.bundle.min.js"
+  ],
+  "license": "MIT"
+}
